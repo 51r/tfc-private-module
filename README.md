@@ -4,5 +4,5 @@ This repo contains Terraform configuration that has module `pet` which is upload
 
 # Prerequisite
 
-Access to Private Registry of `hashicorp-peter-test` Terraform Cloud Organization.
+Access to the Private Registry of `hashicorp-peter-test` Terraform Cloud Organization.
 
